@@ -88,10 +88,8 @@ Contributions to improve this package are welcome. Please submit issues and pull
 
 ## License
 
-## License
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 Copyright (c) 2024 SAD co.
